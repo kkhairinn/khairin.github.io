@@ -61,7 +61,7 @@ h1 {
   padding: 20px;
   border-radius: 20px;
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-  border:3px solid rgb(255 132 198)
+  border: 3px solid #ff9dbd;
   margin: 20px auto;
   width: 50%;
   height: auto;
@@ -74,7 +74,7 @@ h1 {
   padding: 15px 20px;
   font-size: 18px;
   border: none;
-  border-radius: 80px;
+  border-radius: 30px;
   text-decoration: none;
   width: 30%;
   text-align: center;
